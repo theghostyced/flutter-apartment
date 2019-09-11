@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Project](assets/images/800x600.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
